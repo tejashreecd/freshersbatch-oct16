@@ -1,0 +1,15 @@
+p{
+        border: 1px solid black;
+        outline-color:black;
+	background-color: LightCyan;
+}
+p.solid2{
+	outline-style: 2px solid;
+}
+p.solid{
+	outline-style: solid
+}
+p.thick{
+	outline-style: solid thick;
+	border: 8px solid black;
+}

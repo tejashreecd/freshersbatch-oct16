@@ -1,0 +1,11 @@
+p{
+	background-color: LightCyan;
+}
+a:link {
+	color: red;
+}
+a:visited {
+    color: blue;
+}
+
+

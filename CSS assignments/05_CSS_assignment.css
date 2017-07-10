@@ -1,0 +1,12 @@
+div{
+	background-color: LightCyan;
+	margin-top: -10px;
+	display: none;
+}
+table{
+	font-family: Candara, Calibri;
+	border-collapse: collapse;
+}
+table,td,th{
+	border: 1px solid black;
+}
